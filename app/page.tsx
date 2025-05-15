@@ -163,7 +163,7 @@ export default function Home() {
         <div className="text-center mb-12 mt-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-              Create Custom AI Agents for DeFi Contests
+              Create  AI Agents for DeFi Contests
             </span>
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
